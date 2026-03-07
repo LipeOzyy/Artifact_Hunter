@@ -26,6 +26,14 @@ risk scoring       (threat level assessment)
    ↓
 detailed report    (actionable insights)
 ```
+![alt image](https://i.pinimg.com/736x/a8/31/0e/a8310e63393e3bde6f58fc9380271659.jpg)
+## Important:
+
+- Never execute untrusted files during analysis
+- This tool performs static analysis only - no code execution
+- Use in isolated environment for suspected malware
+- Keep YARA rules updated for latest threats
+- Sanitize file paths to prevent directory traversal
 
 
 
