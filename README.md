@@ -24,7 +24,6 @@ risk scoring       (threat level assessment)
    ↓
 detailed report    (actionable insights)
 ```
-![alt image](https://i.pinimg.com/736x/a8/31/0e/a8310e63393e3bde6f58fc9380271659.jpg)
 ## Important:
 
 - Never execute untrusted files during analysis
